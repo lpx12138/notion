@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Toby Chung',
-  domain: 'https://tobychung.notion.site/Frontend-Developer-Roadmap-37e46c47e35043db887c1b3e6f011b5b',
+  domain: 'https://www.tobychung.com',
   author: 'Toby Chung',
 
   // open graph metadata (optional)
