@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Toby Chung',
-  domain: 'https://www.tobychung.com',
+  domain: 'www.tobychung.com',
   author: 'Toby Chung',
 
   // open graph metadata (optional)
