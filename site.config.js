@@ -12,7 +12,7 @@ module.exports = {
   author: 'Toby Chung',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '开着拖拉机奔向春天',
   socialImageTitle: 'Toby Chung',
   socialImageSubtitle: 'Hello World! 👋',
 
